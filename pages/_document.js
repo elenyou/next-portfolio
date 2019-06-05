@@ -6,7 +6,7 @@ export default class MyDocument extends Document {
             <html lang="en">
                 <Head>
                     <meta name="description" content="A site for my portfolio"/>
-                    <meta charset="utf-8"/>
+                    <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width"/>
                     <meta name="robots" content="noindex, nofollow"/>
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" rel="stylesheet"/>
